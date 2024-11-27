@@ -20,6 +20,7 @@ The system includes the following key components:
 - **Kivy Application**: User interface for visualizing real-time data and stress levels.
 
 ## Project Structure
+```bash
 personalized-health-monitoring/
 │
 ├── backend.cpp
@@ -27,6 +28,7 @@ personalized-health-monitoring/
 ├── config.yaml
 ├── IoT and Healthcare.pptx
 └── README.md
+```
 
 ## Prerequisites
 - **Hardware**: ESP32, MAX30102, GSR sensor, DS18B20
