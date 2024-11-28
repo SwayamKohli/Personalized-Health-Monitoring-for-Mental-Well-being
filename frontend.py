@@ -144,7 +144,7 @@ class MentalWellnessMonitor(BoxLayout):
     def update_data(self, dt):
         # Fetch data from ThingSpeak
         try:
-            url = "https://api.thingspeak.com/channels/2702924/feeds.json?api_key=ME07ZYF3SA50HGDS&results=1"
+            url = "https://api.thingspeak.com/channels/YOUR_CHANNEL_ID/feeds.json?api_key=YOUR_API_KEY&results=1" # Enter your own Channel ID and API Key
             response = requests.get(url)
             data = response.json()
             
