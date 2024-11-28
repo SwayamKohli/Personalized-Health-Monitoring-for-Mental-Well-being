@@ -1,4 +1,3 @@
-```markdown
 # Personalized Health Monitoring for Mental Well-being
 
 ## 🏥 Overview
