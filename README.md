@@ -47,23 +47,24 @@ personalized-health-monitoring/
 ---
 
 ## Installation
-### Clone the Repository:
+
+1. **Clone the Repository**:
 ```bash
 git clone https://github.com/SwayamKohli/Personalized-Health-Monitoring-for-Mental-Well-being.git
 cd Personalized-Health-Monitoring-for-Mental-Well-being
 ```
 
-### Set Up the Backend:
+2. **Set Up the Backend**:
 - Upload `backend.cpp` to your ESP32 device.
 - Configure Wi-Fi credentials in the code.
 
-### Set Up the Frontend:
+3. **Set Up the Frontend**:
 - Ensure Python 3.x and the Kivy framework are installed:
   ```bash
   pip install kivy requests
   ```
 
-### Run the Application:
+4. **Run the Application**:
 ```bash
 python frontend.py
 ```
