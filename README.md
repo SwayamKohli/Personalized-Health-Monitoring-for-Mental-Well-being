@@ -98,10 +98,7 @@ python frontend.py
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](LICENSE).  
 
 ### Authors:
-- Swayam Kohli  
-- Shreyash Agarwal  
-- Hitesh Kundi  
-- Maitreyi Jha  
+- Swayam Kohli  - Shreyash Agarwal  - Hitesh Kundu  - Maitreyi Jha    
 
 For the full terms of this license, visit [Creative Commons Legal Code](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 
