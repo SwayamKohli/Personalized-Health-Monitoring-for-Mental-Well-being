@@ -98,9 +98,5 @@ python frontend.py
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](LICENSE).  
 
 For the full terms of this license, visit [Creative Commons Legal Code](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
-
-## Contact
-For queries or collaboration, reach out to **Swayam Kohli** at [swayamkohli11489@gmail.com](mailto:swayamkohli11489@gmail.com).
-
 ---
 
