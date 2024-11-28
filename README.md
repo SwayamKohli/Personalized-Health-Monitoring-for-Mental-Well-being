@@ -59,10 +59,10 @@ cd Personalized-Health-Monitoring-for-Mental-Well-being
 - Configure Wi-Fi credentials in the code.
 
 3. **Set Up the Frontend**:
-- Ensure Python 3.x and the Kivy framework are installed:
+Ensure Python 3.x and the Kivy framework are installed:
   ```bash
-  pip install kivy requests
-  ```
+pip install kivy requests
+```
 
 4. **Run the Application**:
 ```bash
