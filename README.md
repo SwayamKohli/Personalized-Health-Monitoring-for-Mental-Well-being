@@ -99,7 +99,7 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 For the full terms of this license, visit [Creative Commons Legal Code](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 
 ## Contact
-For queries or collaboration, reach out to **Swayam Kohli** at [swayam11489@gmail.com](mailto:swayamkohli11489@gmail.com).
+For queries or collaboration, reach out to **Swayam Kohli** at [swayamkohli11489@gmail.com](mailto:swayamkohli11489@gmail.com).
 
 ---
 
