@@ -87,9 +87,9 @@ python frontend.py
 
 ## 🐈‍⬛ GitHub Profiles of Creators:
 - [Swayam Kohli](https://github.com/SwayamKohli)  
-- Shreyash Agarwal 
+- Shreyash Agarwal
+- Maitreyi Jha 
 - Hitesh Kundu  
-- Maitreyi Jha
 
 ---
 
@@ -98,7 +98,10 @@ python frontend.py
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International Public License](LICENSE).  
 
 ### Authors:
+[![GitHub Shreyash Agarwal](https://img.shields.io/badge/ShreyashAgarwal-%23FFFFFF.svg?logo=GitHub&logoColor=black)]() 
 [![GitHub Swayam Kohli](https://img.shields.io/badge/SwayamKohli-%23FFFFFF.svg?logo=GitHub&logoColor=black)](https://github.com/SwayamKohli) 
+[![GitHub Maitreyi Jha](https://img.shields.io/badge/MaitreyiJha-%23FFFFFF.svg?logo=GitHub&logoColor=black)]() 
+[![GitHub Hitesh Kundu](https://img.shields.io/badge/HiteshKundu-%23FFFFFF.svg?logo=GitHub&logoColor=black)]() 
 
 For the full terms of this license, visit [Creative Commons Legal Code](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 
