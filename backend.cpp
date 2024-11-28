@@ -11,13 +11,13 @@
 #define ONE_WIRE_BUS 4  // DS18B20 data wire is connected to GPIO 4
 
 // Wi-Fi credentials
-const char* ssid = "null";
-const char* password = "MHSS1510";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 WiFiClient client;
 
 // ThingSpeak details
-unsigned long myChannelNumber = 2702924;
-const char * myWriteAPIKey = "IKKXTLXHK1T69GAI";
+unsigned long myChannelNumber = YOUR_CHANNEL_NUMBER;
+const char * myWriteAPIKey = "YOUR_API_KEY";
 
 unsigned long lastTime = 0;
 unsigned long timerDelay = 15000;  // Send data every 15 seconds
