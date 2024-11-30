@@ -88,8 +88,8 @@ python frontend.py
 ## 🐈‍⬛ GitHub Profiles of Creators:
 [![GitHub Shreyash Agarwal](https://img.shields.io/badge/ShreyashAgarwal-%23FFFFFF.svg?logo=GitHub&logoColor=black)]() 
 [![GitHub Swayam Kohli](https://img.shields.io/badge/SwayamKohli-%23FFFFFF.svg?logo=GitHub&logoColor=black)](https://github.com/SwayamKohli) 
-[![GitHub Maitreyi Jha](https://img.shields.io/badge/MaitreyiJha-%23FFFFFF.svg?logo=GitHub&logoColor=black)]() 
-[![GitHub Hitesh Kundu](https://img.shields.io/badge/HiteshKundu-%23FFFFFF.svg?logo=GitHub&logoColor=black)]() 
+[![GitHub Maitreyi Jha](https://img.shields.io/badge/MaitreyiJha-%23FFFFFF.svg?logo=GitHub&logoColor=black)](https://github.com/Maitreyi-Jha) 
+[![GitHub Hitesh Kundu](https://img.shields.io/badge/HiteshKundu-%23FFFFFF.svg?logo=GitHub&logoColor=black)](https://github.com/annoymouskundu) 
 
 ---
 
