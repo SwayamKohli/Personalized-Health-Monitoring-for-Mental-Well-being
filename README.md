@@ -6,11 +6,11 @@ The **Personalized Health Monitoring for Mental Well-being** project is an **IoT
 ---
 
 ## Features
-- **📊 Real-Time Monitoring**: Collects and processes data from multiple sensors.
-- **💡 Stress Analysis**: Combines heart rate and GSR data to estimate stress levels.
-- **🎯 Personalized Recommendations**: Offers dynamic wellness tips to users.
-- **📈 Data Visualization**: Interactive graphs powered by Kivy for real-time insights.
-- **📞 Emergency Support**: Connects users to mental health resources.
+- **Real-Time Monitoring**: Collects and processes data from multiple sensors.
+- **Stress Analysis**: Combines heart rate and GSR data to estimate stress levels.
+- **Personalized Recommendations**: Offers dynamic wellness tips to users.
+- **Data Visualization**: Interactive graphs powered by Kivy for real-time insights.
+- **Emergency Support**: Connects users to mental health resources.
 
 ---
 
