@@ -6,15 +6,15 @@ The **Personalized Health Monitoring for Mental Well-being** project is an **IoT
 ---
 
 ## Features
-- **Real-Time Monitoring**: Collects and processes data from multiple sensors.
-- **Stress Analysis**: Combines heart rate and GSR data to estimate stress levels.
-- **Personalized Recommendations**: Offers dynamic wellness tips to users.
-- **Data Visualization**: Interactive graphs powered by Kivy for real-time insights.
-- **Emergency Support**: Connects users to mental health resources.
+- **Real-Time Monitoring 📊**: Collects and processes data from multiple sensors.
+- **Stress Analysis 💡**: Combines heart rate and GSR data to estimate stress levels.
+- **Personalized Recommendations 🎯**: Offers dynamic wellness tips to users.
+- **Data Visualization 📈**: Interactive graphs powered by Kivy for real-time insights.
+- **Emergency Support 📞**: Connects users to mental health resources.
 
 ---
 
-## Architecture
+## 🛠️Architecture
 ### Key Components:
 - **ESP32 Microcontroller**: Collects and transmits sensor data.
 - **MAX30102**: Monitors heart rate and blood oxygen levels (SpO2).
@@ -25,7 +25,7 @@ The **Personalized Health Monitoring for Mental Well-being** project is an **IoT
 
 ---
 
-## 📁 Project Structure
+## 📁Project Structure
 ```plaintext
 personalized-health-monitoring/
 ├── backend.cpp               # ESP32 Backend Code
@@ -46,7 +46,7 @@ personalized-health-monitoring/
 
 ---
 
-## Installation
+## 📦Installation
 
 1. **Clone the Repository**:
 ```bash
@@ -71,14 +71,14 @@ python frontend.py
 
 ---
 
-## Usage
+## 🎯Usage
 1. **Collect Data**: Ensure the sensors are connected and transmitting data.
 2. **Monitor Health**: Visualize real-time metrics in the Kivy app.
 3. **Emergency Contact**: Use the app to access mental health support.
 
 ---
 
-## Future Improvements
+## 🌟Future Improvements
 - Machine learning models for advanced stress prediction.
 - Mobile app integration for remote monitoring.
 - Multi-device synchronization for comprehensive health tracking.
