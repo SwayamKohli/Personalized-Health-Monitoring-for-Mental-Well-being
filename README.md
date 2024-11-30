@@ -1,16 +1,16 @@
 # Personalized Health Monitoring for Mental Well-being
 
-## Overview
+## 🏥Overview
 The **Personalized Health Monitoring for Mental Well-being** project is an **IoT-enabled system** designed to monitor both physiological and environmental factors. By analyzing heart rate, SpO2, skin conductivity, and ambient temperature, it provides real-time insights into stress levels, offers **personalized wellness recommendations**, and facilitates **connections to mental health professionals** in emergencies.
 
 ---
 
-## Features
-- **Real-Time Monitoring 📊**: Collects and processes data from multiple sensors.
-- **Stress Analysis 💡**: Combines heart rate and GSR data to estimate stress levels.
-- **Personalized Recommendations 🎯**: Offers dynamic wellness tips to users.
-- **Data Visualization 📈**: Interactive graphs powered by Kivy for real-time insights.
-- **Emergency Support 📞**: Connects users to mental health resources.
+## ✨Features
+- **Real-Time Monitoring**: Collects and processes data from multiple sensors.
+- **Stress Analysis**: Combines heart rate and GSR data to estimate stress levels.
+- **Personalized Recommendations**: Offers dynamic wellness tips to users.
+- **Data Visualization**: Interactive graphs powered by Kivy for real-time insights.
+- **Emergency Support**: Connects users to mental health resources.
 
 ---
 
@@ -36,7 +36,7 @@ personalized-health-monitoring/
 
 ---
 
-## Prerequisites
+## 🚀Prerequisites
 - **Hardware**: ESP32, MAX30102, GSR sensor, DS18B20
 - **Software**: Arduino IDE, Python 3.x, Kivy framework
 - **Libraries**:
